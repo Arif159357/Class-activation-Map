@@ -32,9 +32,10 @@
 
 # Performed CAM on Disaster dataset 
 
-![fires1200_Predicted_fires_prob_0 24977395_](https://user-images.githubusercontent.com/55071900/73592757-ba4ef800-4527-11ea-88ca-533a2be026e2.png)
+![image](https://user-images.githubusercontent.com/55071900/73592839-ca1b0c00-4528-11ea-829f-276f941e461f.png)
 
-![fires1200](https://user-images.githubusercontent.com/55071900/73592762-c5098d00-4527-11ea-87bd-3685367198f1.png)
+![image](https://user-images.githubusercontent.com/55071900/73592856-f6cf2380-4528-11ea-9f2d-0882fd383bbc.png)
+
 
 
 
